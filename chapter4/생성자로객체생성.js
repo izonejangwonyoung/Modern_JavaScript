@@ -75,3 +75,4 @@ function  Circle(center,radius){
 var p= {x:0, y:0};
 var c= new Circle(p,2.0);
 console.log(`넓이= ${c.area()}이고 중심 좌표는 ${c.center}`)
+
